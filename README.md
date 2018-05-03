@@ -33,4 +33,4 @@ ggplot() +
   theme_map() 
 ``` 
 
-![proxies](https://raw.githubusercontent.com/JohnCoene/projects/master/img/datamaps_proxy.gif)
+![proxies](https://github.com/kmbsweb/locan/blob/master/pic/test1.PNG?raw=true)
