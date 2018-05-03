@@ -1,0 +1,2 @@
+# locan
+ggplot2でshapefileを表示するためにはデータフレームclassに変更する必要がる。Spatial Polygon Data FrameからData Frameに変換する関数を格納している。

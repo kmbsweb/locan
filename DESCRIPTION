@@ -2,7 +2,7 @@ Package: locan
 Title: Prepare for locational analysis
 Version: 0.0.0.9000
 Author: Keigo Matsuo(m.keigo.sp.ku@gmail.com)
-Description: What the package does (one paragraph).
+Description: Prepares for manipulating sp data.
 Depends: R (>= 3.5.0)
 License: -
 Encoding: UTF-8
